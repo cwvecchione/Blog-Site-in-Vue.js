@@ -7,17 +7,22 @@ html, body {
 #singleBlogPost {
     padding: 10px;
     margin-bottom: 50px;
-    border-width: 2px;
+    /*border-width: 2px;
     border-style: solid;
-    border-color: blue;
+    border-color: blue;*/
 }
 
 #blogPostCreation {
-    border-width: 2px;
+    /*border-width: 1px;
     border-style: solid;
-    border-color: black;
+    border-color: black;*/
+    padding: 10px;
 }
 
 #blogPostCreation > * {
     margin: 10px;
+}
+
+label {
+    margin: 0px;
 }
